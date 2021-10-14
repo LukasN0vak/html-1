@@ -1,0 +1,3 @@
+[1014/122601.416:ERROR:registration_protocol_win.cc(102)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1014/124926.524:ERROR:registration_protocol_win.cc(102)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1014/124927.024:ERROR:registration_protocol_win.cc(102)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
